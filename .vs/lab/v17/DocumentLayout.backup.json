@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TBG\\source\\repos\\lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C725536C-075C-4ADD-B428-EDA24F21B390}|lab\\lab.vcxproj|C:\\Users\\TBG\\source\\repos\\lab\\lab\\lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C725536C-075C-4ADD-B428-EDA24F21B390}|lab\\lab.vcxproj|solutionrelative:lab\\lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab.cpp",
+              "DocumentMoniker": "C:\\Users\\TBG\\source\\repos\\lab\\lab\\lab.cpp",
+              "RelativeDocumentMoniker": "lab\\lab.cpp",
+              "ToolTip": "C:\\Users\\TBG\\source\\repos\\lab\\lab\\lab.cpp",
+              "RelativeToolTip": "lab\\lab.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T11:13:04.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
