@@ -87,6 +87,9 @@ public:
 };
 
 int main() {
+	std::ios_base::sync_with_stdio(false);
+	std::cin.tie(nullptr);
+
 	int32_t N;
 	std::cin >> N;
 
@@ -119,9 +122,9 @@ int main() {
 
 	for (auto result : results) {
 		if (result)
-			std::cout << "Yes" << std::endl;
+			std::cout << "Yes" << "\n";
 		else
-			std::cout << "No" << std::endl;
+			std::cout << "No" << "\n";
 	}
 
 	return 0;
